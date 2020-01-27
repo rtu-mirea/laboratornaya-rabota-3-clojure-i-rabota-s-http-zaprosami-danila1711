@@ -1,0 +1,4502 @@
+[
+    {
+        "cpuTemp": 62.75,
+        "cpuLoad": 5.67578125,
+        "ramFree": 2.331157684326172,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69095703125,
+        "created": 1573852504250
+    },
+    {
+        "cpuTemp": 64.25,
+        "cpuLoad": 5.69775390625,
+        "ramFree": 2.4153175354003906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69081640625,
+        "created": 1573852509145
+    },
+    {
+        "cpuTemp": 63.375,
+        "cpuLoad": 5.61962890625,
+        "ramFree": 2.4024009704589844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6907265625,
+        "created": 1573852514293
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.54248046875,
+        "ramFree": 2.3944435119628906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69051953125,
+        "created": 1573852519329
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.533203125,
+        "ramFree": 2.3713722229003906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69045703125,
+        "created": 1573852524322
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.50732421875,
+        "ramFree": 2.3898773193359375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69045703125,
+        "created": 1573852529314
+    },
+    {
+        "cpuTemp": 62.125,
+        "cpuLoad": 5.48193359375,
+        "ramFree": 2.3831787109375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69045703125,
+        "created": 1573852534214
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.45703125,
+        "ramFree": 2.3837814331054688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69039453125,
+        "created": 1573852539299
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.515625,
+        "ramFree": 2.3745193481445312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6903984375,
+        "created": 1573852544325
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.4404296875,
+        "ramFree": 2.4053115844726562,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6903359375,
+        "created": 1573852549321
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.35009765625,
+        "ramFree": 2.3766021728515625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6903359375,
+        "created": 1573852554304
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.32763671875,
+        "ramFree": 2.3704757690429688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6903359375,
+        "created": 1573852559301
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.30517578125,
+        "ramFree": 2.408905029296875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6903359375,
+        "created": 1573852564303
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.25,
+        "ramFree": 2.3985939025878906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69033984375,
+        "created": 1573852569314
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.21240234375,
+        "ramFree": 2.423114776611328,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69033984375,
+        "created": 1573852574298
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.14208984375,
+        "ramFree": 2.3586082458496094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69033984375,
+        "created": 1573852579315
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.123046875,
+        "ramFree": 2.3399314880371094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69027734375,
+        "created": 1573852584313
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.07080078125,
+        "ramFree": 2.3371658325195312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69027734375,
+        "created": 1573852589321
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 5.0361328125,
+        "ramFree": 2.3466148376464844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852594310
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.9521484375,
+        "ramFree": 2.3639183044433594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852599312
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.88623046875,
+        "ramFree": 2.3824996948242188,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852604327
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.87109375,
+        "ramFree": 2.3387374877929688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852609323
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.7900390625,
+        "ramFree": 2.3981056213378906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852614320
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.74365234375,
+        "ramFree": 2.405010223388672,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6902734375,
+        "created": 1573852619311
+    },
+    {
+        "cpuTemp": 57.75,
+        "cpuLoad": 4.7158203125,
+        "ramFree": 2.319713592529297,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6901875,
+        "created": 1573852674718
+    },
+    {
+        "cpuTemp": 57.5,
+        "cpuLoad": 4.65380859375,
+        "ramFree": 2.3266334533691406,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6901875,
+        "created": 1573852679662
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.5927734375,
+        "ramFree": 2.310546875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6901875,
+        "created": 1573852684812
+    },
+    {
+        "cpuTemp": 56.625,
+        "cpuLoad": 4.54931640625,
+        "ramFree": 2.320037841796875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.690125,
+        "created": 1573852689576
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.490234375,
+        "ramFree": 2.356456756591797,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.690125,
+        "created": 1573852694819
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.44873046875,
+        "ramFree": 2.3417434692382812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.690125,
+        "created": 1573852699802
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 4.39111328125,
+        "ramFree": 2.3086471557617188,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69012109375,
+        "created": 1573852704783
+    },
+    {
+        "cpuTemp": 54.875,
+        "cpuLoad": 4.35107421875,
+        "ramFree": 2.2864646911621094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.69012109375,
+        "created": 1573852709594
+    },
+    {
+        "cpuTemp": 56.875,
+        "cpuLoad": 3.62353515625,
+        "ramFree": 2.4223480224609375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.68033984375,
+        "created": 1573852935917
+    },
+    {
+        "cpuTemp": 58.0,
+        "cpuLoad": 3.59619140625,
+        "ramFree": 2.4429054260253906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.68025390625,
+        "created": 1573852940845
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.5361328125,
+        "ramFree": 2.4047813415527344,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.68025390625,
+        "created": 1573852946002
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.52685546875,
+        "ramFree": 2.4181671142578125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.67919140625,
+        "created": 1573852951008
+    },
+    {
+        "cpuTemp": 57.375,
+        "cpuLoad": 3.50146484375,
+        "ramFree": 2.391387939453125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.67919140625,
+        "created": 1573852955857
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.45947265625,
+        "ramFree": 2.3955307006835938,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.67919140625,
+        "created": 1573852960972
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.51806640625,
+        "ramFree": 2.3922157287597656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.67919140625,
+        "created": 1573852965973
+    },
+    {
+        "cpuTemp": 55.625,
+        "cpuLoad": 3.49267578125,
+        "ramFree": 2.449443817138672,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.67906640625,
+        "created": 1573852970817
+    },
+    {
+        "cpuTemp": 63.5,
+        "cpuLoad": 3.337890625,
+        "ramFree": 2.275959014892578,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.683296875,
+        "created": 1573853336925
+    },
+    {
+        "cpuTemp": 63.875,
+        "cpuLoad": 3.3486328125,
+        "ramFree": 2.2638511657714844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6831328125,
+        "created": 1573853341779
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.326171875,
+        "ramFree": 2.312847137451172,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.6816171875,
+        "created": 1573853346916
+    },
+    {
+        "cpuTemp": 61.875,
+        "cpuLoad": 3.3037109375,
+        "ramFree": 2.329120635986328,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.681625,
+        "created": 1573853351827
+    },
+    {
+        "cpuTemp": 62.375,
+        "cpuLoad": 3.29833984375,
+        "ramFree": 2.1618690490722656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.68155078125,
+        "created": 1573853356771
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.392578125,
+        "ramFree": 2.299327850341797,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.681375,
+        "created": 1573853361904
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.435546875,
+        "ramFree": 2.3847389221191406,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65737109375,
+        "created": 1573853366910
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.37841796875,
+        "ramFree": 2.3732376098632812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65736328125,
+        "created": 1573853371921
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.35546875,
+        "ramFree": 2.4297752380371094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65736328125,
+        "created": 1573853376920
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.44873046875,
+        "ramFree": 2.412059783935547,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6573671875,
+        "created": 1573853381906
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.40771484375,
+        "ramFree": 2.4183120727539062,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.657359375,
+        "created": 1573853386921
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.41748046875,
+        "ramFree": 2.3887977600097656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65723046875,
+        "created": 1573853391912
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.376953125,
+        "ramFree": 2.404888153076172,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65723046875,
+        "created": 1573853396916
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.33740234375,
+        "ramFree": 2.231170654296875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65722265625,
+        "created": 1573853401913
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.29833984375,
+        "ramFree": 2.26837158203125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65717578125,
+        "created": 1573853406908
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.259765625,
+        "ramFree": 2.2021522521972656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65718359375,
+        "created": 1573853411894
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.22216796875,
+        "ramFree": 2.2638778686523438,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65694140625,
+        "created": 1573853416890
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.21826171875,
+        "ramFree": 2.3297576904296875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65675390625,
+        "created": 1573853421896
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.18115234375,
+        "ramFree": 2.3930931091308594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65691015625,
+        "created": 1573853426903
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.1611328125,
+        "ramFree": 2.4230880737304688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65690234375,
+        "created": 1573853431913
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.1416015625,
+        "ramFree": 2.4217910766601562,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6568984375,
+        "created": 1573853436914
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.15576171875,
+        "ramFree": 2.360149383544922,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6568984375,
+        "created": 1573853441913
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.10302734375,
+        "ramFree": 2.358776092529297,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.656890625,
+        "created": 1573853446904
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.10107421875,
+        "ramFree": 2.3423805236816406,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65679296875,
+        "created": 1573853451905
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.06591796875,
+        "ramFree": 2.156238555908203,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6567890625,
+        "created": 1573853456927
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.0478515625,
+        "ramFree": 2.2452239990234375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65678515625,
+        "created": 1573853461897
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.013671875,
+        "ramFree": 2.243885040283203,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65678515625,
+        "created": 1573853466916
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.97998046875,
+        "ramFree": 2.2966384887695312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65678515625,
+        "created": 1573853471911
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.96337890625,
+        "ramFree": 2.3004913330078125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65678515625,
+        "created": 1573853476909
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.947265625,
+        "ramFree": 2.1356124877929688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853481909
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.94775390625,
+        "ramFree": 2.258373260498047,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853486911
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9150390625,
+        "ramFree": 2.30474853515625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853491909
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.916015625,
+        "ramFree": 2.328693389892578,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853496918
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.93359375,
+        "ramFree": 2.2759666442871094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853501909
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9013671875,
+        "ramFree": 2.3191909790039062,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65677734375,
+        "created": 1573853506907
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9013671875,
+        "ramFree": 2.2744064331054688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65676171875,
+        "created": 1573853511897
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.88623046875,
+        "ramFree": 2.4222068786621094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65666015625,
+        "created": 1573853516911
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.87109375,
+        "ramFree": 2.3706398010253906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65615234375,
+        "created": 1573853521894
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9228515625,
+        "ramFree": 2.2918167114257812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6548984375,
+        "created": 1573853526895
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.95703125,
+        "ramFree": 2.4987106323242188,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65554296875,
+        "created": 1573853531908
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.95751953125,
+        "ramFree": 2.3729286193847656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65554296875,
+        "created": 1573853536894
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9248046875,
+        "ramFree": 2.344470977783203,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6555,
+        "created": 1573853541915
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.892578125,
+        "ramFree": 2.3230552673339844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65553125,
+        "created": 1573853546912
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.84423828125,
+        "ramFree": 2.331268310546875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65553125,
+        "created": 1573853551913
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8798828125,
+        "ramFree": 2.2049331665039062,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65552734375,
+        "created": 1573853556907
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8818359375,
+        "ramFree": 2.290679931640625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65552734375,
+        "created": 1573853561919
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8671875,
+        "ramFree": 2.195018768310547,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6555234375,
+        "created": 1573853566931
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.9189453125,
+        "ramFree": 2.2388153076171875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65551953125,
+        "created": 1573853571927
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.88671875,
+        "ramFree": 2.3092193603515625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65551953125,
+        "created": 1573853576920
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.85498046875,
+        "ramFree": 2.2527694702148438,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65551953125,
+        "created": 1573853581933
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.89013671875,
+        "ramFree": 2.132274627685547,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6594921875,
+        "created": 1573853586933
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8583984375,
+        "ramFree": 2.2176437377929688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.659484375,
+        "created": 1573853591938
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8603515625,
+        "ramFree": 2.244659423828125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65938671875,
+        "created": 1573853596946
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.8125,
+        "ramFree": 2.3460350036621094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65938671875,
+        "created": 1573853601935
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7822265625,
+        "ramFree": 2.3196372985839844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6593828125,
+        "created": 1573853606925
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.73583984375,
+        "ramFree": 2.3624038696289062,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6593828125,
+        "created": 1573853611935
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.72314453125,
+        "ramFree": 2.3510894775390625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6593828125,
+        "created": 1573853616943
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7275390625,
+        "ramFree": 2.1928749084472656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6593828125,
+        "created": 1573853621941
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.76513671875,
+        "ramFree": 2.3327178955078125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6593828125,
+        "created": 1573853626942
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7353515625,
+        "ramFree": 2.3472137451171875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65931640625,
+        "created": 1573853631961
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.689453125,
+        "ramFree": 2.0826683044433594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65925390625,
+        "created": 1573853636930
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.64453125,
+        "ramFree": 2.208209991455078,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65925390625,
+        "created": 1573853641936
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6005859375,
+        "ramFree": 2.2231521606445312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65925390625,
+        "created": 1573853646978
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.57373046875,
+        "ramFree": 2.2757911682128906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65925390625,
+        "created": 1573853651935
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.56396484375,
+        "ramFree": 2.318683624267578,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65925390625,
+        "created": 1573853656931
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.55419921875,
+        "ramFree": 2.287342071533203,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6590625,
+        "created": 1573853661929
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.5283203125,
+        "ramFree": 2.328205108642578,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6590625,
+        "created": 1573853666945
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.5693359375,
+        "ramFree": 2.3622207641601562,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6590625,
+        "created": 1573853671943
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.5595703125,
+        "ramFree": 2.3178176879882812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6590625,
+        "created": 1573853676939
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.533203125,
+        "ramFree": 2.3705177307128906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6590625,
+        "created": 1573853681942
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.57373046875,
+        "ramFree": 2.371570587158203,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65907421875,
+        "created": 1573853686944
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.56396484375,
+        "ramFree": 2.3999061584472656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65880859375,
+        "created": 1573853691941
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.57080078125,
+        "ramFree": 2.4071426391601562,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65880859375,
+        "created": 1573853696945
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.57763671875,
+        "ramFree": 2.3975486755371094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65880859375,
+        "created": 1573853701946
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.56787109375,
+        "ramFree": 2.1873741149902344,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65880859375,
+        "created": 1573853706939
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.57470703125,
+        "ramFree": 2.3126182556152344,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6588046875,
+        "created": 1573853711923
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.58154296875,
+        "ramFree": 2.2619857788085938,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6588046875,
+        "created": 1573853716930
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.70458984375,
+        "ramFree": 2.3646926879882812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65842578125,
+        "created": 1573853721945
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.67626953125,
+        "ramFree": 2.3587722778320312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65842578125,
+        "created": 1573853726933
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.71484375,
+        "ramFree": 2.2910499572753906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6529921875,
+        "created": 1573853731966
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.80224609375,
+        "ramFree": 2.336101531982422,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853736945
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.78857421875,
+        "ramFree": 2.333057403564453,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853741946
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7919921875,
+        "ramFree": 2.293621063232422,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853746939
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.76220703125,
+        "ramFree": 2.2912025451660156,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853751938
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.78271484375,
+        "ramFree": 2.2720603942871094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853756926
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7529296875,
+        "ramFree": 2.2631263732910156,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853761945
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.740234375,
+        "ramFree": 2.29754638671875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65842578125,
+        "created": 1573853766932
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7939453125,
+        "ramFree": 2.3252410888671875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853771946
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.76416015625,
+        "ramFree": 2.3306732177734375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.658421875,
+        "created": 1573853776936
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.71826171875,
+        "ramFree": 2.32855224609375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65840625,
+        "created": 1573853781948
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.689453125,
+        "ramFree": 2.294483184814453,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65840234375,
+        "created": 1573853786949
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.677734375,
+        "ramFree": 2.3329124450683594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.65840234375,
+        "created": 1573853791944
+    },
+    {
+        "cpuTemp": 65.625,
+        "cpuLoad": 2.75537109375,
+        "ramFree": 2.3869667053222656,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64418359375,
+        "created": 1573853887407
+    },
+    {
+        "cpuTemp": 66.25,
+        "cpuLoad": 2.70947265625,
+        "ramFree": 2.369831085205078,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64986328125,
+        "created": 1573853892301
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6806640625,
+        "ramFree": 2.4180679321289062,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6570390625,
+        "created": 1573853897450
+    },
+    {
+        "cpuTemp": 64.125,
+        "cpuLoad": 2.751953125,
+        "ramFree": 2.4142990112304688,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67498828125,
+        "created": 1573853902395
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.72265625,
+        "ramFree": 2.4183921813964844,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67460546875,
+        "created": 1573853907469
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.77685546875,
+        "ramFree": 2.4253273010253906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6746015625,
+        "created": 1573853912461
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.7470703125,
+        "ramFree": 2.3865013122558594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6746015625,
+        "created": 1573853917442
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.734375,
+        "ramFree": 2.415637969970703,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6746015625,
+        "created": 1573853922448
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.73876953125,
+        "ramFree": 2.3563079833984375,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6746015625,
+        "created": 1573853927441
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.69287109375,
+        "ramFree": 2.434123992919922,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853932443
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.66455078125,
+        "ramFree": 2.461559295654297,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853937449
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.63671875,
+        "ramFree": 2.4779319763183594,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853942443
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.642578125,
+        "ramFree": 2.5034866333007812,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853947428
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6318359375,
+        "ramFree": 2.500507354736328,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853952467
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6376953125,
+        "ramFree": 2.4803123474121094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67447265625,
+        "created": 1573853957418
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6435546875,
+        "ramFree": 2.380512237548828,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6744765625,
+        "created": 1573853962434
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6328125,
+        "ramFree": 2.4810523986816406,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67448046875,
+        "created": 1573853967445
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6220703125,
+        "ramFree": 2.481353759765625,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.674484375,
+        "created": 1573853972445
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.5947265625,
+        "ramFree": 2.453094482421875,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6743984375,
+        "created": 1573853977410
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.58447265625,
+        "ramFree": 2.4270553588867188,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67366015625,
+        "created": 1573853982447
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.60791015625,
+        "ramFree": 2.307659149169922,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67374609375,
+        "created": 1573853987440
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.630859375,
+        "ramFree": 2.3082504272460938,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.6727109375,
+        "created": 1573853992457
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 2.6533203125,
+        "ramFree": 2.3431472778320312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.67271484375,
+        "created": 1573853997441
+    },
+    {
+        "cpuTemp": 62.0,
+        "cpuLoad": 2.7822265625,
+        "ramFree": 2.3328170776367188,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64855078125,
+        "created": 1573855061376
+    },
+    {
+        "cpuTemp": 60.875,
+        "cpuLoad": 2.81884765625,
+        "ramFree": 2.3564529418945312,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64855078125,
+        "created": 1573855066187
+    },
+    {
+        "cpuTemp": 61.125,
+        "cpuLoad": 2.80517578125,
+        "ramFree": 2.3655128479003906,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64837109375,
+        "created": 1573855071191
+    },
+    {
+        "cpuTemp": 60.5,
+        "cpuLoad": 2.89111328125,
+        "ramFree": 2.2260169982910156,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.64822265625,
+        "created": 1573855076199
+    },
+    {
+        "cpuTemp": 62.0,
+        "cpuLoad": 2.9091796875,
+        "ramFree": 2.36944580078125,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.648109375,
+        "created": 1573855081188
+    },
+    {
+        "cpuTemp": 60.75,
+        "cpuLoad": 2.89404296875,
+        "ramFree": 2.2446250915527344,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.652078125,
+        "created": 1573855086191
+    },
+    {
+        "cpuTemp": 60.75,
+        "cpuLoad": 2.87890625,
+        "ramFree": 2.2906875610351562,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 25.652078125,
+        "created": 1573855091184
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 3.3388671875,
+        "ramFree": 2.0248680114746094,
+        "ramTotal": 8.0,
+        "totalDiskSpace": 115.5119609375,
+        "freeDiskSpace": 26.66601171875,
+        "created": 1573856495851
+    },
+    {
+        "cpuTemp": 8.75,
+        "cpuLoad": 0.03,
+        "ramFree": 3.0606689453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91005859375,
+        "created": 1573857058364
+    },
+    {
+        "cpuTemp": 12.75,
+        "cpuLoad": 0.12,
+        "ramFree": 2.910430908203125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910046875,
+        "created": 1573857176794
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.06,
+        "ramFree": 2.9058570861816406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91003515625,
+        "created": 1573857476616
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.898944854736328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90930859375,
+        "created": 1573857776635
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9017601013183594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909296875,
+        "created": 1573858076610
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9022293090820312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9092890625,
+        "created": 1573858376609
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.1,
+        "ramFree": 2.9017906188964844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90929296875,
+        "created": 1573858676611
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.9024696350097656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90927734375,
+        "created": 1573858976607
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.901653289794922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909265625,
+        "created": 1573859276605
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.901203155517578,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90926171875,
+        "created": 1573859576607
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.06,
+        "ramFree": 2.901012420654297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90925390625,
+        "created": 1573859876605
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.9010467529296875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90925,
+        "created": 1573860176605
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.900707244873047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9092421875,
+        "created": 1573860476605
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8834495544433594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06284375,
+        "created": 1573860776625
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8824844360351562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06283984375,
+        "created": 1573861076604
+    },
+    {
+        "cpuTemp": 7.75,
+        "cpuLoad": 0.04,
+        "ramFree": 2.882854461669922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06283203125,
+        "created": 1573861376602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8825225830078125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06282421875,
+        "created": 1573861676605
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8822708129882812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06281640625,
+        "created": 1573861976603
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.882190704345703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0627890625,
+        "created": 1573862276602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.881561279296875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06277734375,
+        "created": 1573862576602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8811111450195312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0627734375,
+        "created": 1573862876604
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8809280395507812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.062765625,
+        "created": 1573863176602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8811874389648438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0627578125,
+        "created": 1573863476601
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.877552032470703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0630859375,
+        "created": 1573863776603
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.881122589111328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.063078125,
+        "created": 1573864076606
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8727874755859375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06306640625,
+        "created": 1573864376601
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8750038146972656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06306640625,
+        "created": 1573864676602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.874858856201172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0630625,
+        "created": 1573864976602
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8746185302734375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0630546875,
+        "created": 1573865276601
+    },
+    {
+        "cpuTemp": 8.375,
+        "cpuLoad": 0.14,
+        "ramFree": 3.054523468017578,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9091875,
+        "created": 1573878610437
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.908092498779297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9091796875,
+        "created": 1573878910229
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.907573699951172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909171875,
+        "created": 1573879210211
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.907115936279297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90915234375,
+        "created": 1573879510210
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.9063262939453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9091484375,
+        "created": 1573879810208
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.9065704345703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909140625,
+        "created": 1573880110208
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8993453979492188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90912890625,
+        "created": 1573880410210
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8974266052246094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909125,
+        "created": 1573880710204
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8976478576660156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9091171875,
+        "created": 1573881010202
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.896465301513672,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.909109375,
+        "created": 1573881310204
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8958282470703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9091015625,
+        "created": 1573881610205
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.895580291748047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90910546875,
+        "created": 1573881910204
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.8909225463867188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90909765625,
+        "created": 1573882210202
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8906784057617188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90908984375,
+        "created": 1573882510207
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8905601501464844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90908203125,
+        "created": 1573882810216
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8905372619628906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90907421875,
+        "created": 1573883110202
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.888866424560547,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9090703125,
+        "created": 1573883410201
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8884048461914062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9090625,
+        "created": 1573883710240
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.868297576904297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90905078125,
+        "created": 1573884010202
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8679351806640625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90904296875,
+        "created": 1573884310205
+    },
+    {
+        "cpuTemp": 0.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.868000030517578,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9090390625,
+        "created": 1573884610197
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.8679847717285156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9090234375,
+        "created": 1573884910200
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.868427276611328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90901953125,
+        "created": 1573885210199
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8673744201660156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90901171875,
+        "created": 1573885510200
+    },
+    {
+        "cpuTemp": 1.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8614234924316406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9090078125,
+        "created": 1573885810201
+    },
+    {
+        "cpuTemp": 3.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8611068725585938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90900390625,
+        "created": 1573886110198
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8626441955566406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90898828125,
+        "created": 1573886410199
+    },
+    {
+        "cpuTemp": 9.5,
+        "cpuLoad": 0.06,
+        "ramFree": 3.0560340881347656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90891796875,
+        "created": 1573888402408
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.900562286376953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90890234375,
+        "created": 1573888702216
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.899646759033203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90888671875,
+        "created": 1573889002207
+    },
+    {
+        "cpuTemp": 0.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8985977172851562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9088828125,
+        "created": 1573889302209
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.898479461669922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90887109375,
+        "created": 1573889602200
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8978614807128906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9088671875,
+        "created": 1573889902219
+    },
+    {
+        "cpuTemp": 4.875,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8941268920898438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908859375,
+        "created": 1573890202197
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.893951416015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9088515625,
+        "created": 1573890502199
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8936309814453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90884765625,
+        "created": 1573890802198
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.08,
+        "ramFree": 2.892475128173828,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90883984375,
+        "created": 1573891102197
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.890228271484375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90883203125,
+        "created": 1573891402198
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8913650512695312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90882421875,
+        "created": 1573891702198
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.889606475830078,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90881640625,
+        "created": 1573892002199
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8907852172851562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90880859375,
+        "created": 1573892302197
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8902053833007812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90880078125,
+        "created": 1573892602196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.877056121826172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90878125,
+        "created": 1573892902195
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8770713806152344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90876953125,
+        "created": 1573893202198
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8753890991210938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90876953125,
+        "created": 1573893502196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.87640380859375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90876171875,
+        "created": 1573893802196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.876087188720703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9087578125,
+        "created": 1573894102196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.875476837158203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90874609375,
+        "created": 1573894402195
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.875019073486328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9087421875,
+        "created": 1573894702199
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.868480682373047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90873828125,
+        "created": 1573895002196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8678817749023438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9087265625,
+        "created": 1573895302196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8671112060546875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90871875,
+        "created": 1573895602196
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.867259979248047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90871484375,
+        "created": 1573895902200
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8666915893554688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90870703125,
+        "created": 1573896202194
+    },
+    {
+        "cpuTemp": 7.875,
+        "cpuLoad": 0.01,
+        "ramFree": 3.0587196350097656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9086328125,
+        "created": 1573898592649
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9195213317871094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908625,
+        "created": 1573898892488
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.917713165283203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90862890625,
+        "created": 1573899192475
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.9173927307128906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9086171875,
+        "created": 1573899492474
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.9172630310058594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90861328125,
+        "created": 1573899792480
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.9175453186035156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908609375,
+        "created": 1573900092470
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9173049926757812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9086015625,
+        "created": 1573900392506
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9038429260253906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90859375,
+        "created": 1573900692470
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9029159545898438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9085859375,
+        "created": 1573900992467
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9022483825683594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908578125,
+        "created": 1573901292467
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9020042419433594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90857421875,
+        "created": 1573901592466
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9020347595214844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90856640625,
+        "created": 1573901892467
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.894561767578125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90855859375,
+        "created": 1573902192468
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8895301818847656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90855078125,
+        "created": 1573902492467
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.889263153076172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9085390625,
+        "created": 1573902792473
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8861923217773438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90852734375,
+        "created": 1573903092466
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8780136108398438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9085234375,
+        "created": 1573903392493
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.07,
+        "ramFree": 2.8768157958984375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90851171875,
+        "created": 1573903692465
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8770103454589844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90850390625,
+        "created": 1573903992465
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8762741088867188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9085,
+        "created": 1573904292464
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.876140594482422,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90848828125,
+        "created": 1573904592463
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.876117706298828,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908484375,
+        "created": 1573904892464
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.875732421875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90848828125,
+        "created": 1573905192464
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8755874633789062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90848046875,
+        "created": 1573905492465
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8753204345703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90847265625,
+        "created": 1573905792484
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8699569702148438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90846484375,
+        "created": 1573906092464
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.869762420654297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9084609375,
+        "created": 1573906392463
+    },
+    {
+        "cpuTemp": 7.375,
+        "cpuLoad": 0.01,
+        "ramFree": 3.059612274169922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9082734375,
+        "created": 1573913991817
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.9127655029296875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908265625,
+        "created": 1573914291599
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.912372589111328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9082578125,
+        "created": 1573914591613
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9118118286132812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90825390625,
+        "created": 1573914891593
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.9111175537109375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90824609375,
+        "created": 1573915191592
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9104995727539062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908234375,
+        "created": 1573915491595
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.902721405029297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9082265625,
+        "created": 1573915791590
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.902660369873047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90822265625,
+        "created": 1573916091590
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9025421142578125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90821484375,
+        "created": 1573916391586
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9018287658691406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90821484375,
+        "created": 1573916691588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9017066955566406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9082109375,
+        "created": 1573916991588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.9016494750976562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908203125,
+        "created": 1573917291597
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.892383575439453,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9081953125,
+        "created": 1573917591588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.890705108642578,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9081875,
+        "created": 1573917891590
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8916244506835938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90818359375,
+        "created": 1573918191592
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8911895751953125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90817578125,
+        "created": 1573918491587
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8916015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90816796875,
+        "created": 1573918791585
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8917198181152344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90816015625,
+        "created": 1573919091585
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8734130859375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9081484375,
+        "created": 1573919391585
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8730506896972656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90813671875,
+        "created": 1573919691594
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8733901977539062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9081328125,
+        "created": 1573919991584
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8730201721191406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90812109375,
+        "created": 1573920291584
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.873077392578125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9081171875,
+        "created": 1573920591584
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8730430603027344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908109375,
+        "created": 1573920891587
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.873218536376953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90809765625,
+        "created": 1573921191582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.872791290283203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90808984375,
+        "created": 1573921491584
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8729515075683594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9080859375,
+        "created": 1573921791583
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.872417449951172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90808203125,
+        "created": 1573922091588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8729400634765625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90807421875,
+        "created": 1573922391584
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8729095458984375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90807421875,
+        "created": 1573922691583
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8654098510742188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90806640625,
+        "created": 1573922991589
+    },
+    {
+        "cpuTemp": 3.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.861011505126953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9080625,
+        "created": 1573923291593
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8615684509277344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9080546875,
+        "created": 1573923591582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8611907958984375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.908046875,
+        "created": 1573923891589
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.861358642578125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9080390625,
+        "created": 1573924191583
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8615188598632812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90802734375,
+        "created": 1573924491582
+    },
+    {
+        "cpuTemp": 3.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8596343994140625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90801171875,
+        "created": 1573924791582
+    },
+    {
+        "cpuTemp": 6.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8604278564453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9080078125,
+        "created": 1573925091579
+    },
+    {
+        "cpuTemp": 5.75,
+        "cpuLoad": 0.01,
+        "ramFree": 2.860485076904297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90800390625,
+        "created": 1573925391582
+    },
+    {
+        "cpuTemp": 3.875,
+        "cpuLoad": 0.04,
+        "ramFree": 2.860393524169922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90799609375,
+        "created": 1573925691584
+    },
+    {
+        "cpuTemp": 0.375,
+        "cpuLoad": 0.01,
+        "ramFree": 2.860595703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90798828125,
+        "created": 1573925991580
+    },
+    {
+        "cpuTemp": 4.375,
+        "cpuLoad": 0.01,
+        "ramFree": 2.860492706298828,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907984375,
+        "created": 1573926291580
+    },
+    {
+        "cpuTemp": 4.5,
+        "cpuLoad": 0.02,
+        "ramFree": 2.85736083984375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9079765625,
+        "created": 1573926591586
+    },
+    {
+        "cpuTemp": 1.5,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8585777282714844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90796484375,
+        "created": 1573926891582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8585357666015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9079609375,
+        "created": 1573927191583
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8585281372070312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907953125,
+        "created": 1573927491581
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8586578369140625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9079453125,
+        "created": 1573927791583
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8582763671875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90794140625,
+        "created": 1573928091583
+    },
+    {
+        "cpuTemp": 0.125,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8573226928710938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90794140625,
+        "created": 1573928391580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.8571090698242188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90793359375,
+        "created": 1573928691582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8572463989257812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90792578125,
+        "created": 1573928991581
+    },
+    {
+        "cpuTemp": 1.375,
+        "cpuLoad": 0.05,
+        "ramFree": 2.857177734375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907921875,
+        "created": 1573929291580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.857349395751953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90791015625,
+        "created": 1573929591585
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.856781005859375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90790234375,
+        "created": 1573929891581
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8570098876953125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078984375,
+        "created": 1573930191586
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.856719970703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90788671875,
+        "created": 1573930491581
+    },
+    {
+        "cpuTemp": 1.875,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8564529418945312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078828125,
+        "created": 1573930791580
+    },
+    {
+        "cpuTemp": 4.625,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8562850952148438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90787109375,
+        "created": 1573931091581
+    },
+    {
+        "cpuTemp": 3.625,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8566513061523438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078671875,
+        "created": 1573931391580
+    },
+    {
+        "cpuTemp": 2.875,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8562240600585938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907859375,
+        "created": 1573931691579
+    },
+    {
+        "cpuTemp": 0.625,
+        "cpuLoad": 0.01,
+        "ramFree": 2.856517791748047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078515625,
+        "created": 1573931991581
+    },
+    {
+        "cpuTemp": 5.375,
+        "cpuLoad": 0.01,
+        "ramFree": 2.856006622314453,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90784375,
+        "created": 1573932291580
+    },
+    {
+        "cpuTemp": 2.25,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8551025390625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078359375,
+        "created": 1573932591580
+    },
+    {
+        "cpuTemp": 3.25,
+        "cpuLoad": 0.02,
+        "ramFree": 2.855072021484375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907828125,
+        "created": 1573932891581
+    },
+    {
+        "cpuTemp": 0.875,
+        "cpuLoad": 0.01,
+        "ramFree": 2.855022430419922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078203125,
+        "created": 1573933191579
+    },
+    {
+        "cpuTemp": 1.875,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8542251586914062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078125,
+        "created": 1573933491580
+    },
+    {
+        "cpuTemp": 0.25,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8550872802734375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078046875,
+        "created": 1573933791580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.854381561279297,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90780859375,
+        "created": 1573934091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.854969024658203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9078046875,
+        "created": 1573934391579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8543434143066406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9077890625,
+        "created": 1573934691580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8545265197753906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90778515625,
+        "created": 1573934991580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8547134399414062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90777734375,
+        "created": 1573935291582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8544540405273438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90776953125,
+        "created": 1573935591580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8544464111328125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90776171875,
+        "created": 1573935891580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.853954315185547,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90775390625,
+        "created": 1573936191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8540077209472656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90774609375,
+        "created": 1573936491580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8540687561035156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90773828125,
+        "created": 1573936791580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8544158935546875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907734375,
+        "created": 1573937091585
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8543243408203125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9077265625,
+        "created": 1573937391581
+    },
+    {
+        "cpuTemp": 0.125,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8536758422851562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90772265625,
+        "created": 1573937691578
+    },
+    {
+        "cpuTemp": 0.375,
+        "cpuLoad": 0.07,
+        "ramFree": 2.8522415161132812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90771484375,
+        "created": 1573937991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8536415100097656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90770703125,
+        "created": 1573938291580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.15,
+        "ramFree": 2.8539276123046875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076953125,
+        "created": 1573938591579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.06,
+        "ramFree": 2.853961944580078,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90769140625,
+        "created": 1573938891592
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8455963134765625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076875,
+        "created": 1573939191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8456954956054688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90767578125,
+        "created": 1573939491580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.853809356689453,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90766796875,
+        "created": 1573939791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8538780212402344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90766796875,
+        "created": 1573940091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8537063598632812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076640625,
+        "created": 1573940391579
+    },
+    {
+        "cpuTemp": 1.5,
+        "cpuLoad": 0.01,
+        "ramFree": 2.853382110595703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90765234375,
+        "created": 1573940691581
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8532638549804688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076484375,
+        "created": 1573940991580
+    },
+    {
+        "cpuTemp": 4.25,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8530807495117188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90764453125,
+        "created": 1573941291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8531570434570312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90763671875,
+        "created": 1573941591581
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8526573181152344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907625,
+        "created": 1573941891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8530197143554688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076171875,
+        "created": 1573942191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8533668518066406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.907609375,
+        "created": 1573942491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8531227111816406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9076015625,
+        "created": 1573942791587
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8529739379882812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90759765625,
+        "created": 1573943091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8530349731445312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90759375,
+        "created": 1573943391579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8530349731445312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90758203125,
+        "created": 1573943691579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.853199005126953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90757421875,
+        "created": 1573943991580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8531875610351562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90756640625,
+        "created": 1573944291579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8533477783203125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90755859375,
+        "created": 1573944591580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8531837463378906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90755078125,
+        "created": 1573944891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.853137969970703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9075390625,
+        "created": 1573945191580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.853179931640625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90752734375,
+        "created": 1573945491580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8528594970703125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90752734375,
+        "created": 1573945791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.852069854736328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9075234375,
+        "created": 1573946091580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8469200134277344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.90751171875,
+        "created": 1573946391580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8529510498046875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9075078125,
+        "created": 1573946691579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8530044555664062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9075,
+        "created": 1573946991579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.853221893310547,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06110546875,
+        "created": 1573947291579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8530311584472656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0611015625,
+        "created": 1573947591579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8509521484375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06108984375,
+        "created": 1573947891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8508033752441406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0610859375,
+        "created": 1573948191579
+    },
+    {
+        "cpuTemp": 3.375,
+        "cpuLoad": 0.04,
+        "ramFree": 2.850688934326172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06107421875,
+        "created": 1573948491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8506736755371094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06105859375,
+        "created": 1573948791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8503036499023438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.061046875,
+        "created": 1573949091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8502235412597656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0610390625,
+        "created": 1573949391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8503036499023438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06103515625,
+        "created": 1573949691580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8502960205078125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06102734375,
+        "created": 1573949991580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8498191833496094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06101953125,
+        "created": 1573950291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.850269317626953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0610078125,
+        "created": 1573950591579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.850086212158203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06100390625,
+        "created": 1573950891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8498306274414062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06099609375,
+        "created": 1573951191580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8506736755371094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.061,
+        "created": 1573951491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8506622314453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0653671875,
+        "created": 1573951791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.850574493408203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0653125,
+        "created": 1573952091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8502197265625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0653046875,
+        "created": 1573952391588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.850452423095703,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.065296875,
+        "created": 1573952691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8507423400878906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.0652890625,
+        "created": 1573952991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8508567810058594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06528515625,
+        "created": 1573953291579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.1,
+        "ramFree": 2.850627899169922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.06526953125,
+        "created": 1573953591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.8506126403808594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 89.065265625,
+        "created": 1573953891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8502159118652344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91161328125,
+        "created": 1573954191578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8499679565429688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911375,
+        "created": 1573954491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8509674072265625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113671875,
+        "created": 1573954791578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.850360870361328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91136328125,
+        "created": 1573955091580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8502349853515625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911359375,
+        "created": 1573955391579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8504562377929688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113515625,
+        "created": 1573955691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8501319885253906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113359375,
+        "created": 1573955991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8504600524902344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911328125,
+        "created": 1573956291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8427658081054688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113203125,
+        "created": 1573956591579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8425941467285156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113125,
+        "created": 1573956891579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842243194580078,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91131640625,
+        "created": 1573957191578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8425064086914062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91130859375,
+        "created": 1573957491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8421974182128906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9113046875,
+        "created": 1573957791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8423538208007812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911296875,
+        "created": 1573958091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.842723846435547,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9112890625,
+        "created": 1573958391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.8423385620117188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91128515625,
+        "created": 1573958691579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8428268432617188,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91127734375,
+        "created": 1573958991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424453735351562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911265625,
+        "created": 1573959291591
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842517852783203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9112578125,
+        "created": 1573959591582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.84234619140625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91125390625,
+        "created": 1573959891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8427658081054688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91125,
+        "created": 1573960191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842803955078125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91123828125,
+        "created": 1573960491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842510223388672,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91123046875,
+        "created": 1573960791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423538208007812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91122265625,
+        "created": 1573961091578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842388153076172,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91121875,
+        "created": 1573961391590
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8408470153808594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911203125,
+        "created": 1573961691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.84283447265625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91119921875,
+        "created": 1573961991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423080444335938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91119140625,
+        "created": 1573962291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8427276611328125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9111875,
+        "created": 1573962591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423843383789062,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91118359375,
+        "created": 1573962891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8420791625976562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9111796875,
+        "created": 1573963191578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424301147460938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91117578125,
+        "created": 1573963491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8430099487304688,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91116796875,
+        "created": 1573963791580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8428688049316406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91116015625,
+        "created": 1573964091579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842437744140625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91115234375,
+        "created": 1573964391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8422927856445312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9111484375,
+        "created": 1573964691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8424415588378906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911140625,
+        "created": 1573964991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8425025939941406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91112890625,
+        "created": 1573965291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8427276611328125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911125,
+        "created": 1573965591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424453735351562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9111171875,
+        "created": 1573965891588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8425674438476562,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911109375,
+        "created": 1573966191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842548370361328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91109765625,
+        "created": 1573966491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8422508239746094,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91109375,
+        "created": 1573966791578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8422279357910156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9110859375,
+        "created": 1573967091578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842815399169922,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911078125,
+        "created": 1573967391579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842620849609375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91103515625,
+        "created": 1573967691579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.84222412109375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.911,
+        "created": 1573967991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842235565185547,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91096875,
+        "created": 1573968291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.05,
+        "ramFree": 2.8422813415527344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91096484375,
+        "created": 1573968591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8423500061035156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91096484375,
+        "created": 1573968891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.842792510986328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91095703125,
+        "created": 1573969191582
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423690795898438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910953125,
+        "created": 1573969491579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424415588378906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9109453125,
+        "created": 1573969791578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424835205078125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9109375,
+        "created": 1573970091578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8420867919921875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9109296875,
+        "created": 1573970391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423118591308594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91092578125,
+        "created": 1573970691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8426513671875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91090625,
+        "created": 1573970991579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8426361083984375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108984375,
+        "created": 1573971291579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842021942138672,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91089453125,
+        "created": 1573971591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8419342041015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91088671875,
+        "created": 1573971891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.84222412109375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108828125,
+        "created": 1573972191578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842548370361328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91087109375,
+        "created": 1573972491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8429527282714844,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108671875,
+        "created": 1573972791579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8424415588378906,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91086328125,
+        "created": 1573973091580
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842357635498047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108515625,
+        "created": 1573973391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.840808868408203,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91084375,
+        "created": 1573973691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.840625762939453,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108359375,
+        "created": 1573973991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8425331115722656,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91083203125,
+        "created": 1573974291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842071533203125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910828125,
+        "created": 1573974591579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.841632843017578,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91082421875,
+        "created": 1573974891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.842041015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108203125,
+        "created": 1573975191588
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8418807983398438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9108125,
+        "created": 1573975491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.841754913330078,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91080859375,
+        "created": 1573975791578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8422279357910156,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910796875,
+        "created": 1573976091578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.842205047607422,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9107890625,
+        "created": 1573976391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8419456481933594,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91077734375,
+        "created": 1573976691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8420486450195312,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9107734375,
+        "created": 1573976991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.841968536376953,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91076171875,
+        "created": 1573977291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.02,
+        "ramFree": 2.84197998046875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9107578125,
+        "created": 1573977591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8423805236816406,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91074609375,
+        "created": 1573977891589
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8420028686523438,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91073828125,
+        "created": 1573978191579
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.8418731689453125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91073046875,
+        "created": 1573978491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.07,
+        "ramFree": 2.8417510986328125,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9107265625,
+        "created": 1573978791578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.841766357421875,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91071875,
+        "created": 1573979091578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.8417816162109375,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91069140625,
+        "created": 1573979391578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.03,
+        "ramFree": 2.842304229736328,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91068359375,
+        "created": 1573979691578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8417930603027344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9106796875,
+        "created": 1573979991578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.841869354248047,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910671875,
+        "created": 1573980291578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8419418334960938,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.910671875,
+        "created": 1573980591578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8419876098632812,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91066796875,
+        "created": 1573980891578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.07,
+        "ramFree": 2.840557098388672,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91066015625,
+        "created": 1573981191578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.04,
+        "ramFree": 2.842041015625,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.91064453125,
+        "created": 1573981491578
+    },
+    {
+        "cpuTemp": 0.0,
+        "cpuLoad": 0.01,
+        "ramFree": 2.8419151306152344,
+        "ramTotal": 3.804950714111328,
+        "totalDiskSpace": 108.62837109375,
+        "freeDiskSpace": 88.9106328125,
+        "created": 1573981791578
+    }
+]
